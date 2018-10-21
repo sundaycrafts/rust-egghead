@@ -2,7 +2,7 @@ extern crate wasm_bindgen;
 
 use wasm_bindgen::prelude::*;
 
-#[wasm_bindgen]
+#[wasm_bindgen(module = "../domUtils")]
 extern {
   fn appendStringToBody(s: &str);
 }

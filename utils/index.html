@@ -5,24 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
-  <script>
-    const appendNumberToBody = (number) => {
-      const text = document.createTextNode(number);
-      document.body.appendChild(text);
-    }
-
-    const importObject = {
-      env: {
-        appendNumberToBody: appendNumberToBody,
-        alert: alert,
-      }
-    };
-
-    WebAssembly.instantiateStreaming(fetch("utils.gc.wasm"), importObject)
-      .then(wasmModule => {
-        wasmModule.instance.exports.run();
-      })
-  </script>
+  <script src="./index.js"></script> 
 </head>
 <body>
   
