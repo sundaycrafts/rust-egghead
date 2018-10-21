@@ -6,11 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
   <script>
-    fetch('utils.gc.wasm')
-      .then(res => res.arrayBuffer())
-      .then(result => WebAssembly.instantiate(result))
+    WebAssembly.instantiateStreaming(fetch('utils.gc.wasm'))
       .then(wasmModule => {
-        const result = wasmModule.instance.exports.add_one(2);
+        const result = wasmModule.instance.exports.add_one(3);
         const text = document.createTextNode(result);
         document.body.appendChild(text);
       })
