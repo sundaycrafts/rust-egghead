@@ -1,0 +1,10 @@
+/Users/user/projects/rust-egghead/my-wasm-lib/target/release/deps/libwasm_bindgen_backend-dc128dd686956cb7.rlib: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/error.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/ast.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/codegen.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/defined.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/util.rs
+
+/Users/user/projects/rust-egghead/my-wasm-lib/target/release/deps/wasm_bindgen_backend-dc128dd686956cb7.d: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/error.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/ast.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/codegen.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/defined.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/util.rs
+
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/lib.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/error.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/ast.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/codegen.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/defined.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.25/src/util.rs:
