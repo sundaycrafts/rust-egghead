@@ -1,0 +1,1 @@
+{"rustc":18063915529761303640,"features":"[]","target":10226984120440485531,"profile":5060393583489210841,"path":10872709659218687626,"deps":[],"local":[{"MtimeBased":[[1540477147,185726235],"/Users/user/projects/rust-egghead/my-backend/crate/target/wasm32-unknown-unknown/release/.fingerprint/utils-86a5fc4f0d34719b/dep-lib-utils"]}],"rustflags":[],"edition":"Edition2018"}
